@@ -1,5 +1,5 @@
 [README (6).md](https://github.com/user-attachments/files/30633332/README.6.md)
-## Hi there 👋
+## Salam 👋
 
 <!--
 **aasirjaffer13/aasirjaffer13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
