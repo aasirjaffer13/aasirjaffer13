@@ -1,110 +1,131 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="aasirjaffer13's GitHub profile" src="dark_mode.svg" />
-</picture>
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Aasir%20Jaffer&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20AI%20%26%20ML%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,100:0EA5E9&height=190&section=header&text=Aasir%20Jaffer&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20ML%20Student&descAlignY=60&descSize=17" width="100%" alt="Aasir Jaffer" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+Machine+Learning;Exploring+AI%2FML+one+model+at+a+time;Data+Science+%7C+Java+%7C+AI+Tools" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=aasirjaffer13&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/aasirjaffer13?label=Followers&style=flat&color=7dd3fc" alt="Followers"/>
+<a href="https://github.com/aasirjaffer13">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/aasir-jaffer-88a826366/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+</a>
+<a href="mailto:aasirjaffer15@gmail.com">
+<img src="https://img.shields.io/badge/Email-7DD3FC?style=flat-square&logo=gmail&logoColor=0D1117" alt="Email" />
+</a>
 
 </div>
 
 ---
 
-### 🧠 Who I Am
+## Profile
 
-```typescript
-const aasir = {
-  title: "B.Tech AI & ML Student",
-  stack: ["Python", "Java", "Machine Learning", "Data Science", "AI Tools"],
-  launchedProjects: ["Real Estate Price Prediction"],
-  certifications: [],
-  status: "Learning & Building",
-  openTo: ["Collaboration", "AI/ML Projects", "Opportunities to Learn"],
-};
+I am a B.Tech student specializing in Artificial Intelligence and Machine Learning.
+
+My current focus is on building a strong foundation in Python, machine learning, data analysis, and software development. I also work with Java and use practical projects to strengthen my understanding of programming and applied machine learning.
+
+```text
+Primary:        Python, Machine Learning, Data Science
+Programming:    Python, Java
+Tools:          NumPy, Pandas, Scikit-learn, Jupyter
+Focus:          Applied Machine Learning and Software Development
 ```
 
 ---
 
-### 🚀 Featured Projects
+## Technical Skills
 
-#### Real Estate Price Prediction
+<div align="center">
 
-Machine learning project that predicts real estate prices based on key property features.
+<img src="https://skillicons.dev/icons?i=python,java" alt="Python and Java" />
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aasirjaffer13&repo=real-estate-price-prediction-project&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Real Estate Price Prediction"/>
+<br />
+
+<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,jupyter" alt="Scikit-learn, Pandas, NumPy and Jupyter" />
+
 </div>
 
-| Layer | Technology |
+---
+
+## Selected Project
+
+### Real Estate Price Prediction
+
+A machine learning project for estimating real estate prices from property-related features.
+
+**Technology**
+
+| Category | Stack |
 |---|---|
 | Language | Python |
-| Domain | Machine Learning |
-
-🔗 [Code](https://github.com/aasirjaffer13/real-estate-price-prediction-project)
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java" alt="Languages"/>
-
-**AI/ML & Data Science**
-
-<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,jupyter" alt="AI/ML & Data Science"/>
-
----
-
-### 📊 GitHub Stats
+| Machine Learning | Scikit-learn |
+| Data Processing | Pandas, NumPy |
+| Development | Jupyter Notebook |
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aasirjaffer13&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasirjaffer13&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="49%"/>
+<a href="https://github.com/aasirjaffer13/real-estate-price-prediction-project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aasirjaffer13&repo=real-estate-price-prediction-project&theme=dark&bg_color=0D1117&border_color=7DD3FC&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC" alt="Real Estate Price Prediction repository" />
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=aasirjaffer13&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
+</div>
+
+[View repository](https://github.com/aasirjaffer13/real-estate-price-prediction-project)
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aasirjaffer13&show_icons=true&hide_border=false&theme=dark&bg_color=0D1117&border_color=7DD3FC&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC" width="48%" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasirjaffer13&layout=compact&hide_border=false&theme=dark&bg_color=0D1117&border_color=7DD3FC&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC" width="48%" alt="Top languages" />
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="aasirjaffer13's GitHub profile" src="dark_mode.svg" />
+</picture> 
+
+<img src="https://streak-stats.demolab.com/?user=aasirjaffer13&theme=dark&background=0D1117&border=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-### 🏆 Trophies
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aasirjaffer13&theme=nord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aasirjaffer13&bg_color=0D1117&color=7DD3FC&line=7DD3FC&point=FFFFFF&area=true&hide_border=false" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
 ---
 
-### 📈 Contribution Activity
+## Contact
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aasirjaffer13&theme=nord&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Graph"/>
+<a href="https://github.com/aasirjaffer13">
+<img src="https://img.shields.io/badge/GitHub-aasirjaffer13-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=7DD3FC" alt="GitHub profile" />
+</a>
+
+<a href="https://www.linkedin.com/in/aasir-jaffer-88a826366/">
+<img src="https://img.shields.io/badge/LinkedIn-Aasir%20Jaffer-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0D1117&color=7DD3FC" alt="LinkedIn profile" />
+</a>
+
+<a href="mailto:aasirjaffer15@gmail.com">
+<img src="https://img.shields.io/badge/Email-aasirjaffer15%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0D1117&color=7DD3FC" alt="Email address" />
+</a>
 
 </div>
 
----
-
-### 🔗 Connect
+<br />
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aasir-jaffer-88a826366/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:aasirjaffer15@gmail.com"><img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7DD3FC&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
-
