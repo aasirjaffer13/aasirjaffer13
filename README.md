@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="aasirjaffer13's GitHub profile" src="dark_mode.svg" />
+</picture>
 [README (6).md](https://github.com/user-attachments/files/30633332/README.6.md)
 ## Salam 👋
 
