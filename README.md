@@ -3,18 +3,9 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="aasirjaffer13's GitHub profile" src="dark_mode.svg" />
 </picture>
-[README (6).md](https://github.com/user-attachments/files/30633332/README.6.md)
-## Salam 👋
 
-<!--
-**aasirjaffer13/aasirjaffer13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Aasir%20Jaffer&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20AI%20%26%20ML%20Student&descAlignY=55&descSize=18" width="100%"/>
 
@@ -116,9 +107,4 @@ Machine learning project that predicts real estate prices based on key property 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
-for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
