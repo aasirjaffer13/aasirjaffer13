@@ -128,3 +128,4 @@ A machine learning project for estimating real estate prices using property-rela
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0EA5E9,100:7DD3FC&amp;height=100&amp;section=footer" width="100%" alt="Footer" />
 
 </div>
+
